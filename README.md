@@ -1,0 +1,2 @@
+# Guessing-the-likelihood-of-showing-up-to-the-doctor-s-appointment
+We have a database of almost 110000 records of doctor's appointment and with the aid of cleaning, wrangling and then feature engineering we will be able to find a lot of insights, what features increase the likelihood of showing up the most and definately train an algorithm to efficiently predict the No show parameter when given a set of info about the patient and the appointment date.
